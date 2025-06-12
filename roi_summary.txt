@@ -1,0 +1,35 @@
+Top 5 campaigns by ROI:
+Campaign name
+Eldeco LVB Generic 18 March     0.002517
+Eldeco LVB 10 March             0.001561
+Eldeco LVB SITE Event 7 June    0.001362
+Eldeco LVB 25 March MPF Page    0.001087
+Eldeco LVB 24 Feb               0.000000
+Name: roi, dtype: float64
+
+Bottom 5 campaigns by ROI:
+Campaign name
+Eldeco LVB 10 March               0.001561
+Eldeco LVB SITE Event 7 June      0.001362
+Eldeco LVB 25 March MPF Page      0.001087
+Eldeco LVB 24 Feb                 0.000000
+Eldeco LVB Dubai/Singapore NRI    0.000000
+Name: roi, dtype: float64
+
+ROI by Gender:
+Gender
+unknown    0.005212
+All        0.001056
+male       0.001050
+female     0.001030
+Name: roi, dtype: float64
+
+ROI by Age:
+Age
+45-54    0.001178
+25-34    0.001117
+All      0.001088
+55-64    0.001028
+65+      0.000986
+35-44    0.000948
+Name: roi, dtype: float64
